@@ -1,0 +1,134 @@
+{
+    "name": "My Portfolio",
+    "headerTaglineOne": "Felise Amore Pandiora-",
+    "headerTaglineTwo": "Computer Science Undergraduate Student",
+    "showResume": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/FelAmore"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/felise-amore-pandiora/"
+      },
+      {
+        "id": "5",
+        "title": "Email",
+        "link": "mailto:felise.amore@gmail.com"
+      }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "Slot Machine Game",
+        "description": "Pygame based project for Algorithm and Programming Course",
+        "imageSrc": "https://i.imgur.com/tWL6vWy.jpeg",
+        "url": "https://github.com/FelAmore/AlgoPro-Final-Project"
+      },
+      {
+        "id": "2",
+        "title": "Gym Mangement System",
+        "description": "Java based management system for Object-Oriented Programming Course",
+        "imageSrc": "https://i.imgur.com/HUEaVO5.jpeg",
+        "url": "https://github.com/FelAmore/OopFinalProject"
+      },
+      {
+        "id": "3",
+        "title": "My Todo-List",
+        "description": "React-Vite based project for Web Application Development and Security Course",
+        "imageSrc": "https://i.imgur.com/QbitYmW.jpeg",
+        "url": "https://github.com/FelAmore/Todolist-API-Database"
+      },
+      {
+        "id": "4",
+        "title": "Tsunami Prediction System",
+        "description": "Data Science with machine learning algorithm project",
+        "imageSrc": "https://i.imgur.com/DaHTAWf.jpeg",
+        "url": "https://github.com/FelAmore/DataScience-BasicStatistics-Final-Project"
+      },
+      {
+        "id": "5",
+        "title": "FAMDb",
+        "description": "Xampp based Movie Database project",
+        "imageSrc": "https://i.imgur.com/6TrC3tP.jpeg",
+        "url": "https://github.com/FelAmore/Database_FP"
+      },
+      {
+        "id": "6",
+        "title": "Pureleaf",
+        "description": "Full Stack Web Development Project",
+        "imageSrc": "https://i.imgur.com/fEMomzb.jpeg",
+        "url": "https://github.com/WADSFinalProject/Pureleaf_localtesting"
+      }
+    ],
+    "aboutpara": "A motivated 5th-semester Computer Science student at Binus University International with a good foundation in programming, web development, and data analysis. Passionate about leveraging technology to solve real-world problems, I have hands-on experience in software development, computational modeling, and AI applications. I value collaboration and continually seek opportunities to enhance both my technical and interpersonal skills.",
+    "resume": {
+      "tagline": "",
+      "description": "A motivated 5th-semester Computer Science student at Binus University International with a good foundation in programming, web development, and data analysis. Passionate about leveraging technology to solve real-world problems, I have hands-on experience in software development, computational modeling, and AI applications. I value collaboration and continually seek opportunities to enhance both my technical and interpersonal skills.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "2024",
+          "type": "Workshop",
+          "position": "Training Manager, Robogals Workshop",
+          "bullets": "Teaching high school students about Data Scraping in Penabur International High School."
+        },
+        {
+          "id": "2",
+          "dates": "2023",
+          "type": "Competition",
+          "position": "Kleanse - Project Hatchery Competition",
+          "bullets": "Class Winner, Co-founded an application designed to help people find trustworthy yet professional cleaners."
+        },
+        {
+            "id": "3",
+            "dates": "2023",
+            "type": "Competition",
+            "position": "Academic English Interclass Presentation Competition",
+            "bullets": "Represented the class in the interclass Academic English presentation competition."
+        },
+        {
+            "id": "4",
+            "dates": "2023",
+            "type": "Workshop",
+            "position": "Training Manager, Robogals Workshop",
+            "bullets": "Trained volunteers for an open workshop about GitHub 101."
+        }
+      ],
+      "education": {
+        "universityName": "Binus University International (Double Degree RMIT)",
+        "universityDate": "2022 - 2026 (ongoing)",
+        "universityPara": "Bachelor of Information Technology, Major in Computer Science.",
+        "highSchoolName": "SMA Kristen Kalam Kudus",
+        "highSchoolDate": "2019 - 2022"
+      },
+      "skills": [
+        "Python",
+        "Java",
+        "HTML & CSS",
+        "Javascript",
+        "Database with XAMPP",
+        "React-Vite",
+        "Machine Learning",
+        "Data Analysis",
+        "Ms. Word, Excel, PPT",
+        "Canva",
+        "Figma",
+        "AWS"
+      ],
+      "certifications": [
+        "HackerRank Java (Basic)",
+        "Great Learning Java Programming",
+        "AWS Cloud Practitioner Essentials",
+        "Revou Intro to Data Analytics"
+      ],
+      "awards": [
+        "Project Hatchery Competition Class Winner",
+        "AE Interclass Presentation Competition Winner"
+      ]
+    }
+  }
+  
