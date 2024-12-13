@@ -25,42 +25,42 @@
         "id": "1",
         "title": "Slot Machine Game",
         "description": "Pygame based project for Algorithm and Programming Course",
-        "imageSrc": "./img/python.jpeg",
+        "imageSrc": "/images/img/python.jpeg",
         "url": "https://github.com/FelAmore/AlgoPro-Final-Project"
       },
       {
         "id": "2",
         "title": "Gym Mangement System",
         "description": "Java based management system for Object-Oriented Programming Course",
-        "imageSrc": "https://i.imgur.com/HUEaVO5.jpeg",
+        "imageSrc": "/images/img/java.jpeg",
         "url": "https://github.com/FelAmore/OopFinalProject"
       },
       {
         "id": "3",
         "title": "My Todo-List",
         "description": "React-Vite based project for Web Application Development and Security Course",
-        "imageSrc": "https://i.imgur.com/QbitYmW.jpeg",
+        "imageSrc": "/images/img/wads.jpeg",
         "url": "https://github.com/FelAmore/Todolist-API-Database"
       },
       {
         "id": "4",
         "title": "Tsunami Prediction System",
         "description": "Data Science with machine learning algorithm project",
-        "imageSrc": "https://i.imgur.com/DaHTAWf.jpeg",
+        "imageSrc": "/images/img/datascience.jpeg",
         "url": "https://github.com/FelAmore/DataScience-BasicStatistics-Final-Project"
       },
       {
         "id": "5",
         "title": "FAMDb",
         "description": "Xampp based Movie Database project",
-        "imageSrc": "https://i.imgur.com/6TrC3tP.jpeg",
+        "imageSrc": "/images/img/database.jpeg",
         "url": "https://github.com/FelAmore/Database_FP"
       },
       {
         "id": "6",
         "title": "Pureleaf",
         "description": "Full Stack Web Development Project",
-        "imageSrc": "https://i.imgur.com/fEMomzb.jpeg",
+        "imageSrc": "/images/img/pureleaf.jpeg",
         "url": "https://github.com/WADSFinalProject/Pureleaf_localtesting"
       }
     ],
