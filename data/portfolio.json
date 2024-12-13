@@ -25,7 +25,7 @@
         "id": "1",
         "title": "Slot Machine Game",
         "description": "Pygame based project for Algorithm and Programming Course",
-        "imageSrc": "https://i.imgur.com/tWL6vWy.jpeg",
+        "imageSrc": "./img/python.jpeg",
         "url": "https://github.com/FelAmore/AlgoPro-Final-Project"
       },
       {
